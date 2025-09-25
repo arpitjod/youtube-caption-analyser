@@ -1,0 +1,6 @@
+youtube-transcript-api
+transformers
+torch
+pandas
+scikit-learn
+nltk                                                                                                                                                                                                                                                                                                                                                                                                                      
